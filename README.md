@@ -168,7 +168,7 @@ This will download the NG911 source code into your Codespace environment so you 
 | **-20** | Program option used to specify the number of lines to display — in this case, the first *20* lines of the file
 | **../deliverables/vuln_analysis_grype.txt** | The path and filename of the file you want to preview
 
-4. Copy the top 5 rows into your report table. Then select one CVE, locate it in the <a href="https://nvd.nist.gov">NVD Database</a>, and summarize its cause or impact in one sentence.
+4. Copy the top 5 rows into your report table. Then select one CVE, locate it in the <a href="https://nvd.nist.gov">**NVD Database**</a>, and summarize its cause or impact in one sentence.
 
 ## **Part 3: Deliverables**
 **GitHub Submission**:
@@ -195,7 +195,7 @@ deliverables/
 
 1. Copy your forked repository URL: Go to your forked repo on GitHub (it should look something like):
    
-     `https://github.com/<your-username>/eng298-fa25-mod7-sbom-lab1`
+     `https://github.com/<your-username>/eng298-sp26-mod7-sbom-lab1`
    
    - Copy the URL from your browser’s address bar.
 
